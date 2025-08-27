@@ -1,0 +1,11 @@
+Final contains the final code author used. The optimal solution and DST.
+
+Incremental-Final: Also contains the final code author used however its incremental
+i.e it usage all the previous example with LinkedList  not directly using the final and most optimal solution i.e. BST. Also it add some more additional check and defensive coding practise that the final one.
+
+I would advise to keep both source code as learning but refer Incremental version first it often also contains some extra code like some  test , some more chekcs 
+
+As it can get quite confusing. I have also done some of my own coding practise of DST
+at REPO -> 
+https://kumarshantanu.visualstudio.com/  -> Online Video Tutorials
+-> Algorithms nd Data Structures
